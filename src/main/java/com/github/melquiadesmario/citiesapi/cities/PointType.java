@@ -43,7 +43,7 @@ public class PointType implements UserType {
 
         /* 2nd */
         PGpoint value = (PGpoint) rs.getObject(names[0]);
-        return new Point(value.x, value.y);
+        return new Point();
     }
 
     @Override
