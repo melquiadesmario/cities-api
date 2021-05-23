@@ -1,7 +1,7 @@
-package com.github.melquiadesmario.citiesapi;
+package com.github.melquiadesmario.citiesapi.countries;
 
 import com.github.melquiadesmario.citiesapi.countries.Country;
-import com.github.melquiadesmario.citiesapi.repository.CountryRepository;
+import com.github.melquiadesmario.citiesapi.countries.repository.CountryRepository;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.ResponseEntity;

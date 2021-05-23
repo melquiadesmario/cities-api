@@ -1,4 +1,4 @@
-package com.github.melquiadesmario.citiesapi.repository;
+package com.github.melquiadesmario.citiesapi.countries.repository;
 
 import com.github.melquiadesmario.citiesapi.countries.Country;
 import org.springframework.data.jpa.repository.JpaRepository;
